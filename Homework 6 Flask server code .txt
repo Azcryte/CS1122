@@ -1,0 +1,12 @@
+from flask import Flask
+app = Flask(__name__)
+
+@app.route(Åg/Åh)
+def helloworld():
+	return ÅgSalutations World!Åh
+
+if __name__ == Åg__main__Åh:
+	app.run(
+		host=Åh0.0.0.0Åh,
+		port=5000
+	)
